@@ -1,4 +1,4 @@
-# Hi there 👋
+# 👋 Welcome on my profile
 
 I'm a 24 years old fullstack web developper from France.
 I'm student at the Center for Education and Research in Computer Science in Avignon.
@@ -23,11 +23,11 @@ I'm student at the Center for Education and Research in Computer Science in Avig
 <p>
     <img src="images/frameworks/symfony.svg" width="40" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="images/frameworks/laravel.svg" width="100" />
+    <img src="images/frameworks/laravel.svg" width="40" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="images/frameworks/nuxt.svg" width="100" />
+    <img src="images/frameworks/nuxt.svg" width="50" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="images/frameworks/nextjs.svg" width="100" />
+    <img src="images/frameworks/nextjs.svg" width="40" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="images/frameworks/react.svg" width="40" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -37,12 +37,19 @@ I'm student at the Center for Education and Research in Computer Science in Avig
 - **Databases** : 
 
 <p>
-    <img src="images/databases/mysql.svg" width="50" />
+    <img src="images/databases/mysql.svg" width="40" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="images/databases/mariadb.svg" width="120" />
+    <img src="images/databases/mariadb.svg" width="60" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="images/databases/postgresql.svg" width="40" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="images/databases/mongodb.svg" width="120" />
+    <img src="images/databases/mongodb.svg" width="20" />
+</p>
 
-- **Environment** : Docker, Git
+- **Environment** :
+
+<p>
+    <img src="images/environment/docker.svg" width="50" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="images/environment/git.svg" width="40" />
+</p>
