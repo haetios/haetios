@@ -5,8 +5,9 @@ I'm student at the Center for Education and Research in Computer Science in Avig
 
 ## Skills
 
-- Languages : Typescript, JavaScript, PHP, HTML, CSS, ...
-- Frameworks :<br />
+- **Languages** : Typescript, JavaScript, PHP, HTML, CSS, ...
+- **Frameworks** :
+
 <img src="images/frameworks/symfony.svg" width="40" />
 &nbsp;&nbsp;&nbsp;
 <img src="images/frameworks/laravel.svg" width="100" />
@@ -18,5 +19,6 @@ I'm student at the Center for Education and Research in Computer Science in Avig
 <img src="images/frameworks/react.svg" width="40" />
 &nbsp;&nbsp;&nbsp;
 <img src="images/frameworks/vue.svg" width="40" />
-- Databases : MySQL, PostgreSQL, MariaDB, MongoDB
-- Environment : Docker, Git
+
+- **Databases** : MySQL, PostgreSQL, MariaDB, MongoDB
+- **Environment** : Docker, Git
