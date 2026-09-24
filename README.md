@@ -8,13 +8,13 @@ I'm student at the Center for Education and Research in Computer Science in Avig
 - **Languages** :
 <p>
     <img src="images/languages/html.svg" width="40" />
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="images/languages/css.svg" width="44" />
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="images/languages/javascript.svg" width="44" />
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="images/languages/typescript.svg" width="45" />
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="images/languages/php.svg" width="45" />
 </p>
 
@@ -22,17 +22,27 @@ I'm student at the Center for Education and Research in Computer Science in Avig
 
 <p>
     <img src="images/frameworks/symfony.svg" width="40" />
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="images/frameworks/laravel.svg" width="100" />
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="images/frameworks/nuxt.svg" width="100" />
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="images/frameworks/nextjs.svg" width="100" />
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="images/frameworks/react.svg" width="40" />
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="images/frameworks/vue.svg" width="40" />
 </p>
 
-- **Databases** : MySQL, PostgreSQL, MariaDB, MongoDB
+- **Databases** : 
+
+<p>
+    <img src="images/databases/mysql.svg" width="50" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="images/databases/mariadb.svg" width="120" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="images/databases/postgresql.svg" width="40" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="images/databases/mongodb.svg" width="120" />
+
 - **Environment** : Docker, Git
