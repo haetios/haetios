@@ -21,35 +21,35 @@ I'm student at the Center for Education and Research in Computer Science in Avig
 - **Frameworks** :
 
 <p>
-    <img src="images/frameworks/symfony.svg" width="40" />
+    <a href="https://laravel.com/"><img src="images/frameworks/symfony.svg" width="40" /></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="images/frameworks/laravel.svg" width="40" />
+    <a href="https://symfony.com/"><img src="images/frameworks/laravel.svg" width="40" /></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="images/frameworks/nuxt.svg" width="50" />
+    <a href="https://symfony.com/"><img src="images/frameworks/nuxt.svg" width="50" /></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="images/frameworks/nextjs.svg" width="40" />
+    <a href="https://nextjs.org/"><img src="images/frameworks/nextjs.svg" width="40" /></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="images/frameworks/react.svg" width="40" />
+    <a href="https://fr.react.dev/"><img src="images/frameworks/react.svg" width="40" /></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="images/frameworks/vue.svg" width="40" />
+    <a href="https://fr.vuejs.org/"><img src="images/frameworks/vue.svg" width="40" /></a>
 </p>
 
 - **Databases** : 
 
 <p>
-    <img src="images/databases/mysql.svg" width="40" />
+    <a href="https://www.mysql.com/fr/"><img src="images/databases/mysql.svg" width="40" /></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="images/databases/mariadb.svg" width="60" />
+    <a href="https://mariadb.org/"><img src="images/databases/mariadb.svg" width="60" /></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="images/databases/postgresql.svg" width="40" />
+    <a href="https://www.postgresql.org/"><img src="images/databases/postgresql.svg" width="40" /></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="images/databases/mongodb.svg" width="20" />
+    <a href="https://www.mongodb.com/"><img src="images/databases/mongodb.svg" width="20" /></a>
 </p>
 
 - **Environment** :
 
 <p>
-    <img src="images/environment/docker.svg" width="50" />
+    <a href="https://www.docker.com/"><img src="images/environment/docker.svg" width="50" /></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="images/environment/git.svg" width="40" />
+    <a href="https://git-scm.com/"><img src="images/environment/git.svg" width="40" /></a>
 </p>
