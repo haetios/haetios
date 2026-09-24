@@ -27,28 +27,16 @@
 ### Frameworks
 #### TypeScript
 
-<div class="frameworks" style="margin-top: 30px; margin-bottom: 50px;">
-    <img src="images/frameworks/nuxt.svg" alt="" width="120" class="framework" />
-    <img src="images/frameworks/nextjs.svg" alt="" width="120" class="framework" />
-    <img src="images/frameworks/vue.svg" alt="" width="50" class="framework" />
-    <img src="images/frameworks/react.svg" alt="" width="50" class="framework" />
+<div class="frameworks" style="display: flex; align-items: center; margin-top: 30px; margin-bottom: 50px;">
+    <img src="images/frameworks/nuxt.svg" alt="" width="120" style="margin-right: 50px;" />
+    <img src="images/frameworks/nextjs.svg" alt="" width="120" style="margin-right: 50px;" />
+    <img src="images/frameworks/vue.svg" alt="" width="50" style="margin-right: 50px;" />
+    <img src="images/frameworks/react.svg" alt="" width="50" style="margin-right: 50px;" />
 </div>
 
 #### PHP
 
-<div class="frameworks">
-    <img src="images/frameworks/symfony.svg" alt="" width="50" class="framework" />
-    <img src="images/frameworks/laravel.svg" alt="" width="140" class="framework" />
+<div class="frameworks" style="display: flex; align-items: center;">
+    <img src="images/frameworks/symfony.svg" alt="" width="50" style="margin-right: 50px;" />
+    <img src="images/frameworks/laravel.svg" alt="" width="140" style="margin-right: 50px;" />
 </div>
-
-<!-- Document style -->
-
-<style>
-.frameworks {
-    display: flex;
-    align-items: center;
-}
-.framework {
-    margin-right: 50px;
-}
-</style>
