@@ -5,10 +5,22 @@ I'm student at the Center for Education and Research in Computer Science in Avig
 
 ## Skills
 
-- **Languages** : Typescript, JavaScript, PHP, HTML, CSS, ...
+- **Languages** :
+<p>
+    <img src="images/languages/html.svg" width="40" />
+    &nbsp;&nbsp;&nbsp;
+    <img src="images/languages/css.svg" width="44" />
+    &nbsp;&nbsp;&nbsp;
+    <img src="images/languages/javascript.svg" width="44" />
+    &nbsp;&nbsp;&nbsp;
+    <img src="images/languages/typescript.svg" width="45" />
+    &nbsp;&nbsp;&nbsp;
+    <img src="images/languages/php.svg" width="45" />
+</p>
+
 - **Frameworks** :
 
-<p align="center">
+<p>
     <img src="images/frameworks/symfony.svg" width="40" />
     &nbsp;&nbsp;&nbsp;
     <img src="images/frameworks/laravel.svg" width="100" />
