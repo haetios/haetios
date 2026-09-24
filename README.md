@@ -8,17 +8,19 @@ I'm student at the Center for Education and Research in Computer Science in Avig
 - **Languages** : Typescript, JavaScript, PHP, HTML, CSS, ...
 - **Frameworks** :
 
-<img src="images/frameworks/symfony.svg" width="40" />
-&nbsp;&nbsp;&nbsp;
-<img src="images/frameworks/laravel.svg" width="100" />
-&nbsp;&nbsp;&nbsp;
-<img src="images/frameworks/nuxt.svg" width="100" />
-&nbsp;&nbsp;&nbsp;
-<img src="images/frameworks/nextjs.svg" width="100" />
-&nbsp;&nbsp;&nbsp;
-<img src="images/frameworks/react.svg" width="40" />
-&nbsp;&nbsp;&nbsp;
-<img src="images/frameworks/vue.svg" width="40" />
+<p align="center">
+    <img src="images/frameworks/symfony.svg" width="40" />
+    &nbsp;&nbsp;&nbsp;
+    <img src="images/frameworks/laravel.svg" width="100" />
+    &nbsp;&nbsp;&nbsp;
+    <img src="images/frameworks/nuxt.svg" width="100" />
+    &nbsp;&nbsp;&nbsp;
+    <img src="images/frameworks/nextjs.svg" width="100" />
+    &nbsp;&nbsp;&nbsp;
+    <img src="images/frameworks/react.svg" width="40" />
+    &nbsp;&nbsp;&nbsp;
+    <img src="images/frameworks/vue.svg" width="40" />
+</p>
 
 - **Databases** : MySQL, PostgreSQL, MariaDB, MongoDB
 - **Environment** : Docker, Git
