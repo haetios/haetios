@@ -7,15 +7,15 @@ I'm student at the Center for Education and Research in Computer Science in Avig
 
 - **Languages** :
 <p>
-    <img src="images/languages/html.svg" width="40" />
+    <picture><img src="images/languages/html.svg" width="40" /></picture>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="images/languages/css.svg" width="44" />
+    <picture><img src="images/languages/css.svg" width="44" /></picture>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="images/languages/javascript.svg" width="44" />
+    <picture><img src="images/languages/javascript.svg" width="44" /></picture>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="images/languages/typescript.svg" width="45" />
+    <picture><img src="images/languages/typescript.svg" width="45" /></picture>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="images/languages/php.svg" width="45" />
+    <picture><img src="images/languages/php.svg" width="45" /></picture>
 </p>
 
 - **Frameworks** :
@@ -34,7 +34,7 @@ I'm student at the Center for Education and Research in Computer Science in Avig
     <a href="https://fr.vuejs.org/"><img src="images/frameworks/vue.svg" width="40" /></a>
 </p>
 
-- **Databases** : 
+- **Databases** :
 
 <p>
     <a href="https://www.mysql.com/fr/"><img src="images/databases/mysql.svg" width="40" /></a>
