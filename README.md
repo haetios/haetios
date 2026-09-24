@@ -1,7 +1,7 @@
-# 👋 Welcome on my profile
+# 👋 Welcome to my profile
 
-I'm a 24 years old fullstack web developper from France.
-I'm student at the Center for Education and Research in Computer Science in Avignon.
+I'm a 24-years-old fullstack web developer from France.
+I'm a student at the Center for Education and Research in Computer Science in Avignon.
 
 ## Skills
 
